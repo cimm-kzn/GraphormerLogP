@@ -147,7 +147,7 @@ Original Github Repo - https://github.com/OpenDrugAI/AttentiveFP
 ## Citation
 @Article{
   title={GRAPH-BASED TRANSFORMER TO PREDICT THE OCTANOL-WATER PARTITION COEFFICIENT},
-  author={Grigorev V., Khakimova A., Serov N., Gimadiev T., Poyezzhayeva A., Sidorov P.},
+  author={Grigorev V., Serov N., Gimadiev T., Poyezzhayeva A., Sidorov P.},
 }exa
 
 
